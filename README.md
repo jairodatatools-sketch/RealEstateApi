@@ -149,3 +149,8 @@ Content-Type: application/json
 - Checklist técnico para revisión y entrega  
 - Pruebas unitarias organizadas por capa funcional  
 
+---
+Contacto y soporte
+Para dudas o problemas, puedes contactarme en [jairo.datatools@gmail.com].
+---
+¡Gracias por usar PermissionStack!
