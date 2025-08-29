@@ -153,4 +153,4 @@ Content-Type: application/json
 Contacto y soporte
 Para dudas o problemas, puedes contactarme en [jairo.datatools@gmail.com].
 ---
-¡Gracias por usar PermissionStack!
+¡Gracias por usar RealEstateApi!
